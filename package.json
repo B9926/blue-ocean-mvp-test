@@ -1,0 +1,10 @@
+{
+  "name": "blue-ocean-mvp-test",
+  "version": "1.0.0",
+  "description": "测试项目 - 蓝海MVP自动化部署",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'No build needed for static HTML'",
+    "start": "npx serve ."
+  }
+}
